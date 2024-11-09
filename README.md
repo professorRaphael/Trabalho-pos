@@ -4,7 +4,7 @@
 - **Professor**: Raphael Mauricio Sanches de Jesus
 - **Email**: <raphael.jesus@estacio.br> 
 - **Período**: Pós-Graduação  
-- **Data de Entrega**: 15/11/2024
+- **Data de Entrega**: 16/11/2024
 
 ---
 
