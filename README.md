@@ -7,9 +7,7 @@
 
 ---
 
-## **Título do Trabalho**  
-
-    **Desenvolvimento de uma Aplicação de Análise de Dados Integrada com Flask e Streamlit**
+## **Desenvolvimento de uma Aplicação de Análise de Dados Integrada com Flask e Streamlit**
 
 ---
 
