@@ -1,10 +1,10 @@
 # Avaliação
 
-**Disciplina**: Linguagem Python  
-**Professor**: Raphael Mauricio Sanches de Jesus
-**Email**: <raphael.jesus@estacio.br> 
-**Período**: Pós-Graduação  
-**Data de Entrega**: 11/11/2024
+-**Disciplina**: Linguagem Python  
+-**Professor**: Raphael Mauricio Sanches de Jesus
+-**Email**: <raphael.jesus@estacio.br> 
+-**Período**: Pós-Graduação  
+-**Data de Entrega**: 11/11/2024
 
 ---
 
