@@ -43,7 +43,6 @@ Você deverá desenvolver uma aplicação que atenda aos seguintes requisitos:
 
 4. **Interface Interativa com Streamlit**:
    - A interface deve permitir:
-     - Upload de novos arquivos CSV.
      - Visualização de estatísticas e gráficos.
      - Consulta interativa aos endpoints da API.
 
@@ -83,7 +82,7 @@ Você deverá desenvolver uma aplicação que atenda aos seguintes requisitos:
 
 ### **Observações**
 
-- Este é um trabalho grupo de até 3 integrantes. Dúvidas podem ser enviadas por e-mail ou discutidas durante o horário de aula.
+- Este é um trabalho individual. Dúvidas podem ser enviadas por e-mail ou discutidas durante o horário de aula.
 - Trabalhos entregues fora do prazo sofrerão penalidades, conforme regulamento da disciplina.
 
 ---
